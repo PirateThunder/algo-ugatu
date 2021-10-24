@@ -1,3 +1,6 @@
+// https://contest.yandex.ru/contest/29212/problems/3_2/
+// ID посылки: 54883442 
+
 #include <iostream>
 #include <vector>
 

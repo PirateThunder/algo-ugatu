@@ -1,3 +1,6 @@
+// https://contest.yandex.ru/contest/29212/problems/1_2/
+// ID посылки: 54853085
+
 #include <iostream>
 
 int main()
